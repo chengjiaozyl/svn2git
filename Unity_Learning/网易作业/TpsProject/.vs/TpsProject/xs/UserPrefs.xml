@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E99023F6-D8DF-1EC6-0CC3-4296DCFAC63C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tps_ActionController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NetworkManager.cs" Line="19" Column="1" />
+<<<<<<< HEAD
+      <File FileName="Assets/Scripts/NetworkCore.cs" Line="176" Column="7" />
+      <File FileName="Assets/Scripts/Tps_MessageController.cs" Line="231" Column="6" />
+      <File FileName="Assets/Scripts/Tps_ActionController.cs" Line="128" Column="43" />
+=======
+      <File FileName="Assets/Scripts/NetworkCore.cs" Line="28" Column="60" />
+      <File FileName="Assets/Scripts/Tps_MessageController.cs" Line="231" Column="6" />
+      <File FileName="Assets/Scripts/Tps_ActionController.cs" Line="35" Column="1" />
+>>>>>>> 28ccfdb74e78c3ea66a1fdc54b2b5c7ece8ac7de
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TpsProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Tps_ActionController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8beb5765-7697-409b-a8ce-5c8433e96523" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
